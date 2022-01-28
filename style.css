@@ -15,8 +15,10 @@
     height: 200px;
     background-color: #FDE1C3;
     margin: 100px auto;
-    width: 78px;
+    width: 60px;
     border-style: solid ; 
     border-color: #D28700;
+    border-bottom: none;
+    transform: rotate(5deg);
     /* margin-top: 100px; */
 }
