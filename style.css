@@ -55,3 +55,26 @@
     border-radius: 62% 100% 100% 57%;
     margin: -98px 66px;
 }
+
+.ear_culs1{
+    width: 5px;
+    height: 4px;
+    background-color: #FDE1C3;
+    border-color: #D28700;
+    border-style: solid;
+    border-left-style: none;
+    border-radius: 0% 96% 100% 77%;
+    margin: -208px 106px;
+}
+.ear_culs2{
+    width: 5px;
+    height: 0px;
+    background-color: #FDE1C3;
+    border-color: #D28700;
+    border-style: solid;
+    border-left-style: none;
+    border-radius: 0% 64% 100% 9%;
+    border-width: medium;
+    margin: -8px -2px;
+    transform: rotate(-28deg);
+}
