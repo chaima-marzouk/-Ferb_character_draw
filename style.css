@@ -44,3 +44,14 @@
     margin: 111px 31px;
     
 }
+
+.ferb_ear{
+    width: 23px;
+    height: 26px;
+    background-color: #FDE1C3;
+    border-color: #D28700;
+    border-style: solid;
+    border-left-style: none;
+    border-radius: 62% 100% 100% 57%;
+    margin: -98px 66px;
+}
