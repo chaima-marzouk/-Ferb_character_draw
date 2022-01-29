@@ -20,5 +20,19 @@
     border-color: #D28700;
     border-bottom: none;
     transform: rotate(5deg);
+    /* position: absolute; */
     /* margin-top: 100px; */
+}
+
+.ferb_nose{
+    width: 45px;
+    height: 63px;
+    background-color: #FDE1C3;
+    border-color: #D28700;
+    border-style: solid;
+    border-right: none;
+    margin: 100px -47px;
+    border-radius: 39% 0 0 39%;
+    
+
 }
