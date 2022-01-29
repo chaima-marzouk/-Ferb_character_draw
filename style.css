@@ -12,7 +12,7 @@
 
 .ferb_face{
     width: 50px;
-    height: 200px;
+    height: 267px;
     background-color: #FDE1C3;
     margin: 100px auto;
     width: 60px;
@@ -20,8 +20,6 @@
     border-color: #D28700;
     border-bottom: none;
     transform: rotate(5deg);
-    /* position: absolute; */
-    /* margin-top: 100px; */
 }
 
 .ferb_nose{
@@ -33,4 +31,16 @@
     border-right: none;
     margin: 100px -47px;
     border-radius: 39% 0 0 39%;
+}
+
+.ferb_mouth{
+    width: 12px;
+    height: 12px;
+    background-color: #FDE1C3;
+    border-color: #D28700;
+    border-style: solid;
+    border-right-style: none;
+    border-radius: 100% 0 0 9%;
+    margin: 111px 31px;
+    
 }
