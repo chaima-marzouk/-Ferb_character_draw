@@ -23,13 +23,13 @@
 }
 
 .ferb_nose{
-    width: 45px;
+    width: 60px;
     height: 63px;
     background-color: #FDE1C3;
     border-color: #D28700;
     border-style: solid;
     border-right: none;
-    margin: 100px -47px;
+    margin: 55px -33px;
     border-radius: 39% 0 0 39%;
 }
 
@@ -41,7 +41,7 @@
     border-style: solid;
     border-right-style: none;
     border-radius: 100% 0 0 9%;
-    margin: 111px 31px;
+    margin: 111px 44px;
     
 }
 
@@ -64,7 +64,7 @@
     border-style: solid;
     border-left-style: none;
     border-radius: 0% 96% 100% 77%;
-    margin: -208px 106px;
+    margin: -208px 121px;
 }
 .ear_culs2{
     width: 5px;
@@ -77,4 +77,58 @@
     border-width: medium;
     margin: -8px -2px;
     transform: rotate(-28deg);
+}
+.ferb_left_eye{
+    width: 54px;
+    height: 75px;
+    background-color: #ffffff;
+    border-color: #000000;
+    border-style: solid;
+    margin: 74px -30px;
+    border-radius: 100%;
+}
+.ferb_right_eye{
+    width: 43px;
+    height: 50px;
+    background-color: #ffffff;
+    border-color: #000000;
+    border-style: solid;
+    margin: 27px 8px;
+    border-radius: 100%;
+}
+.dote__right_bl{
+    width: 6px;
+    height: 7px;
+    background-color: #00457D;
+    border-color: #000000;
+    border-style: solid;
+    margin: 15px 17px;
+    border-radius: 100%;
+}
+.dote__left_bl{
+    width: 6px;
+    height: 7px;
+    background-color: #00457D;
+    border-color: #000000;
+    border-style: solid;
+    margin: -34px -65px;
+    border-radius: 100%;
+}
+.dote_shine__right_bl{
+    width: 2px;
+    height: 2px;
+    background-color: #fcfcfc;
+    /* border-color: #000000; */
+    border-style: solid;
+    margin: -2px -1px;
+    border-radius: 100%;
+}
+.dote_shine__left_bl{
+    width: 2px;
+    height: 3px;
+    background-color: #ffffff;
+    /* border-color: #000000; */
+    border-style: solid;
+    margin: -2px -1px;
+    border-radius: 100%;
 }
