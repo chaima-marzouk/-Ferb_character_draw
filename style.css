@@ -1,25 +1,31 @@
-.container{
+body{
     background-color: #f8e1e1;
+}
+
+.container{
+    background-color: #ffffff;
     width: 500px;
-    height: 714px;
+    height: 93%;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 14px;
     box-shadow: 10px 10px 20px #7c7b7b;
     border-radius: 8%;
     position: absolute;
-    margin-left: 411px;
+    margin-left: 32%;
 }
 
-.ferb_face{
+.ferb_face {
+    position: sticky;
     width: 50px;
     height: 313px;
     background-color: #FDE1C3;
     margin: 100px auto;
     width: 60px;
-    border-style: solid ; 
+    border-style: solid;
     border-color: #D28700;
     border-bottom: none;
     transform: rotate(4deg);
+    z-index: 15;
 }
 
 .ferb_nose{
@@ -118,7 +124,6 @@
     width: 2px;
     height: 2px;
     background-color: #fcfcfc;
-    /* border-color: #000000; */
     border-style: solid;
     margin: -2px -1px;
     border-radius: 100%;
@@ -127,8 +132,113 @@
     width: 2px;
     height: 3px;
     background-color: #ffffff;
-    /* border-color: #000000; */
     border-style: solid;
     margin: -2px -1px;
     border-radius: 100%;
+}
+.col1 {
+    width: 37px;
+    height: 40px;
+    background-color: #ffffff;
+    margin: -24% 38%;
+    border-style: solid;
+    border-color: black;
+    transform: rotate( -46deg );
+    border-top-style: none;
+    border-right-style: none;
+}
+.col2 {
+    position: inherit;
+    width: 40px;
+    height: 39px;
+    background-color: white;
+    margin: 16% 47%;
+    border-style: solid;
+    border-color: black;
+    z-index: 63;
+    transform: rotate( -58deg );
+    border-top-style: none;
+    border-right-style: none;
+}
+.col0 {
+    position: inherit;
+    width: 101px;
+    height: 2px;
+    background-color: black;
+    margin: -21% 36%;
+    border-style: solid;
+    border-color: black;
+    z-index: 92;
+}
+.hair1{
+    width: 132px;
+    border-top: 29px solid #25A345;
+    border-radius: 40px 40px 0 0;
+    height: 96px;
+    left: 116px;
+    bottom: 61px;
+    margin: -215px -46px;
+    transform: rotate(-12deg);
+}
+.hair4{
+    width: 135px;
+    border-top: 28px solid #25A345;
+    border-radius: 50px 40px 0 0;
+    height: 77px;
+    left: 180px;
+    bottom: 40px;
+    margin: 65px -66px;
+    transform: rotate(30deg);
+}
+.hair2{
+    width: 100px;
+    border-top: 24px solid #25A345;
+    border-radius: 50px 40px 0 0;
+    height: 77px;
+    left: 180px;
+    bottom: 40px;
+    margin: 80px -56px;
+    transform: rotate(14deg);
+}
+
+
+.hair3{
+    width: 100px;
+    border-top: 20px solid #25A345;
+    border-radius: 37px 40px 0 0;
+    height: 77px;
+    left: 180px;
+    bottom: 40px;
+    margin: -181px 9px;
+    transform: rotate(-38deg);
+}
+.hair5{
+    width: 100px;
+    border-top: 20px solid #25A345;
+    border-radius: 30px 41px 0 0;
+    height: 77px;
+    left: 180px;
+    bottom: 40px;
+    margin: -163px -4px;
+    transform: rotate(-38deg);
+}
+.hair6{
+    width: 100px;
+    border-top: 15px solid #25A345;
+    border-radius: 37px 49px 0 0;
+    height: 77px;
+    left: 180px;
+    bottom: 40px;
+    margin: 51px 1px;
+    transform: rotate(-38deg);
+}
+.hair7{
+    width: 55px;
+    border-top: 15px solid #25A345;
+    border-radius: 37px 51px 0 0;
+    height: 77px;
+    left: 180px;
+    bottom: 40px;
+    margin: -172px 27px;
+    transform: rotate(-101deg);
 }
